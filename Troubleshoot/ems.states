@@ -1,0 +1,13 @@
+time on 
+timeout 120 
+show server 
+show db 
+show routes
+show connections full 
+show topics 
+show queues 
+show stat topic > 
+show stat queue > 
+show durables 
+show consumers full 
+show stat producers 
